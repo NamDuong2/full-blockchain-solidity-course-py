@@ -104,7 +104,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 
 # Lesson 0: Welcome To Blockchain
 ## Introduction relevant ideas
-- [E-cash](https://vietnambiz.vn/ecash-la-gi-su-troi-day-va-sup-do-cua-ecash-20200504104449261.htm)
+- [E-cash documents](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/inst-of-info-security-dam/documents/secrypt2015.pdf)
 ## What is a Blockchain?
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
