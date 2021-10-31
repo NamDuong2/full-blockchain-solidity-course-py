@@ -19,6 +19,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
     - [Questions](#questions)
     - [Windows Support](#windows-support)
 - [Lesson 0: Welcome To Blockchain](#lesson-0-welcome-to-blockchain)
+  - [Introduction relevant ideas] (#Introduction-relevant-ideas)
   - [What is a Blockchain?](#what-is-a-blockchain)
   - [Making Your First Transaction](#making-your-first-transaction)
   - [How Do Blockchains Work?](#how-do-blockchains-work)
@@ -102,6 +103,8 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
   - Learn how to install all the tools you will need for this course on a windows machine
 
 # Lesson 0: Welcome To Blockchain
+## Introduction relevant ideas
+- [E-cash](https://vietnambiz.vn/ecash-la-gi-su-troi-day-va-sup-do-cua-ecash-20200504104449261.htm)
 ## What is a Blockchain?
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
