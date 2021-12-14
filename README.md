@@ -19,7 +19,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
     - [Questions](#questions)
     - [Windows Support](#windows-support)
 - [Lesson 0: Welcome To Blockchain](#lesson-0-welcome-to-blockchain)
-  - [Bitcoin Predecessors (DigiCash, E-Gold, Hashcash, B-Money, Bit Gold)](#Bitcoin-Predecessors-(DigiCash, E-Gold, Hashcash, B-Money, Bit Gold))
+  - [Bitcoin Predecessors (DigiCash, E-Gold, Hashcash, B-Money, Bit Gold)](#bitcoin-predecessors-(digicash, e-gold, hashcash, b-money, bit gold))
   - [What is a Blockchain?](#what-is-a-blockchain)
   - [Making Your First Transaction](#making-your-first-transaction)
   - [How Do Blockchains Work?](#how-do-blockchains-work)
