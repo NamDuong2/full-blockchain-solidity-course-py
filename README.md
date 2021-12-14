@@ -19,7 +19,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
     - [Questions](#questions)
     - [Windows Support](#windows-support)
 - [Lesson 0: Welcome To Blockchain](#lesson-0-welcome-to-blockchain)
-  - [Introduction relevant ideas](#introduction-relevant-ideas)
+  - [Bitcoin Predecessors (DigiCash, E-Gold, Hashcash, B-Money, Bit Gold)](#Bitcoin-Predecessors-(DigiCash, E-Gold, Hashcash, B-Money, Bit Gold))
   - [What is a Blockchain?](#what-is-a-blockchain)
   - [Making Your First Transaction](#making-your-first-transaction)
   - [How Do Blockchains Work?](#how-do-blockchains-work)
@@ -103,8 +103,8 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
   - Learn how to install all the tools you will need for this course on a windows machine
 
 # Lesson 0: Welcome To Blockchain
-## Introduction relevant ideas
-- [E-cash documents](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/inst-of-info-security-dam/documents/secrypt2015.pdf)
+## Bitcoin Predecessors (DigiCash, E-Gold, Hashcash, B-Money, Bit Gold)
+- [Bitcoin Predecessors (DigiCash, E-Gold, Hashcash, B-Money, Bit Gold)](https://drive.google.com/file/d/1M0MkOe0wE3bt7dfvbMaZ6ttpdPDYhqUV/view?usp=sharing)
 ## What is a Blockchain?
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
