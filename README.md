@@ -19,7 +19,8 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
     - [Questions](#questions)
     - [Windows Support](#windows-support)
 - [Lesson 0: Welcome To Blockchain](#lesson-0-welcome-to-blockchain)
-  - [Bitcoin Predecessors (DigiCash, Hashcash, E-Gold, B-Money, Bit Gold)](#bitcoin-predecessors)
+  - [Bitcoin Predecessors](#bitcoin-predecessors)
+  - [Bitcoin Experiment](#bitcoin-experiment)
   - [What is a Blockchain?](#what-is-a-blockchain)
   - [Making Your First Transaction](#making-your-first-transaction)
   - [How Do Blockchains Work?](#how-do-blockchains-work)
@@ -105,6 +106,7 @@ Welcome to the repository for the Ultimate Solidity, Blockchain, and Smart Contr
 # Lesson 0: Welcome To Blockchain
 ## Bitcoin Predecessors (DigiCash, E-Gold, Hashcash, B-Money, Bit Gold)
 - [Bitcoin Predecessors (DigiCash, E-Gold, Hashcash, B-Money, Bit Gold)](https://drive.google.com/file/d/1M0MkOe0wE3bt7dfvbMaZ6ttpdPDYhqUV/view?usp=sharing)
+- [Bitcoin Experiment](https://drive.google.com/file/d/1qGHEOzSHnRbK4uDSL5wPgPXL8CEOCXu_/view?usp=sharing)
 ## What is a Blockchain?
 - [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
